@@ -1,1 +1,3 @@
-# apartment_prices_over_time
+# Advertised apartment prices over time in Slovenia
+
+R Markdown document for blog post.
